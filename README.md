@@ -1,6 +1,6 @@
 # for testing purpose
 from feature1
-#complexity of number to words is O(1)
+#complexity of number to words is O(1)<br><br>
 
 1.class name: NumberToWordsConverter<br>
 2.__init__: this constructor initializes two lists "one" and "tens"<br>
@@ -15,14 +15,14 @@ it uses num_to_word method for each part of the number.<br>
 it adds "and" if the number is greater than 100 and not divisible by 100<br>
 5.Sample input: 48920122<br>
 Sample output : four crore eighty nine lakh twenty thousand one hundred and twenty two<br>
+<br>
+#complexity of fibonacci series using numpy is O(n)<br><br>
 
-#complexity of fibonacci series using numpy is O(n)
-
-1.class name: Fibonacci
-2.__init__: this constructor initializes a list named series with n number of zeros.
-3.method generate_series: if n>0 initialize first element with 0,if n>1 initialize second element with 1 then for i from 2 to n-1 initializes ith element as the sum of previous two elements.
-then the method returns the list itself.
-4.Sample input: 7
-Sample output: 0 1 1 2 3 5 8
+1.class name: Fibonacci<br>
+2.__init__: this constructor initializes a list named series with n number of zeros.<br>
+3.method generate_series: if n>0 initialize first element with 0,if n>1 initialize second element with 1 then for i from 2 to n-1 initializes ith element as the sum of previous two elements.<br>
+then the method returns the list itself.<br>
+4.Sample input: 7<br>
+Sample output: 0 1 1 2 3 5 8<br>
 
 
